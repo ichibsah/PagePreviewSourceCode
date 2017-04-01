@@ -1,0 +1,25 @@
+﻿<PLUGINS>
+    <PLUGIN name="(owug) Page Preview (Source Code)" url="PagePreviewSourceCode/index.asp" compatibility="11.2.2.593" company="OpenText Web Solutions Usergroup e.V." contact="Thomas Pollinger" email="thomas.pollinger@vodafone.com" telefon="49-211-533-8097" website="http://www.opentext-usergroup.org/">
+        <DESCRIPTIONS>
+            <ENU name="Page Preview (Source Code)"/>
+            <DEU name="Seitenvorschau (Quelltext)"/>
+            <FRA name="Page Preview (Source Code)"/>
+            <CHS name="Page Preview (Source Code)"/>
+            <CSY name="Page Preview (Source Code)"/>
+            <NLD name="Page Preview (Source Code)"/>
+            <ELL name="Page Preview (Source Code)"/>
+            <HUN name="Page Preview (Source Code)"/>
+            <ITA name="Page Preview (Source Code)"/>
+            <JPN name="Page Preview (Source Code)"/>
+            <PLK name="Page Preview (Source Code)"/>
+            <PTB name="Page Preview (Source Code)"/>
+            <RUS name="Page Preview (Source Code)"/>
+            <ESP name="Page Preview (Source Code)"/>
+            <SVE name="Page Preview (Source Code)"/>
+        </DESCRIPTIONS>
+        <TARGETS>
+            <TARGET target="ioTreeProjectPage"/>
+        </TARGETS>
+        <ICON source="PagePreviewSourceCode/assets/icons/preview.gif"/>
+    </PLUGIN>
+</PLUGINS>
